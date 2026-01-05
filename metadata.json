@@ -1,0 +1,7 @@
+{
+  "name": "سوبر ماركت برو - Supermarket Management System",
+  "description": "نظام إدارة سوبر ماركت متكامل يشمل المبيعات، المخزون، الفواتير، والباركود مع نظام صلاحيات متطور.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
